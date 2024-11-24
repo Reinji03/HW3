@@ -1,1 +1,10 @@
+streamlit
+pandas
 geopandas
+jsonschema
+shapely
+fiona
+pyproj
+folium
+altair
+matplotlib
